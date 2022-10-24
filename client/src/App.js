@@ -7,7 +7,7 @@ import Home from './components/statics/Home'
 // import {MuiThemeProvider} from '@material-ui/styles';
 
 import './config/dataTableTheme'
-import './App.css'
+// import './App.css'
 
 import Login from './components/User/Login'
 import Register from './components/User/Register'
